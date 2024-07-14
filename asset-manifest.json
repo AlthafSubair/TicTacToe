@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlthafSubair/TicTacToe.git/static/css/main.924856c7.css",
+    "main.js": "/AlthafSubair/TicTacToe.git/static/js/main.7c5e0066.js",
+    "static/js/453.e036e8b5.chunk.js": "/AlthafSubair/TicTacToe.git/static/js/453.e036e8b5.chunk.js",
+    "index.html": "/AlthafSubair/TicTacToe.git/index.html",
+    "main.924856c7.css.map": "/AlthafSubair/TicTacToe.git/static/css/main.924856c7.css.map",
+    "main.7c5e0066.js.map": "/AlthafSubair/TicTacToe.git/static/js/main.7c5e0066.js.map",
+    "453.e036e8b5.chunk.js.map": "/AlthafSubair/TicTacToe.git/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.924856c7.css",
+    "static/js/main.7c5e0066.js"
+  ]
+}
